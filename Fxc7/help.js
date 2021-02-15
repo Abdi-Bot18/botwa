@@ -2,8 +2,6 @@
 const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam, tanggal) => { 
 	return `
 
-SUBSCRIBE:Abdi HH
-DI SITU ADA TUTORIAL JADI BOT
 
 ╭──────「 *REGULATION ${name}* 」
 ┴
